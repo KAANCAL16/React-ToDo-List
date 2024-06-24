@@ -1,0 +1,13 @@
+.todo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 12px;
+}
+
+.icons{
+    font-size: 22px;
+}
